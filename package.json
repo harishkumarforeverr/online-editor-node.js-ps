@@ -5,6 +5,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "chalk": "^5.2.0"
+    "chalk": "^5.2.0",
+    "nodemon": "^2.0.22",
+    "xlsx": "^0.18.5"
   }
 }
